@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Machine Learning"
+    url: /categories/machine-learning/
+  - title: "Problem Solving"
+    url: /categories/problem-solving/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
